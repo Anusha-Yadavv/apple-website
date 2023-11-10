@@ -1,0 +1,14 @@
+.nav-container{
+  gap: 20px;
+    
+}
+.icon{
+  fill: white;
+
+}
+.icons-container{
+  display: flex;
+  flex-direction: row;;
+  justify-content: space-around;
+}
+
